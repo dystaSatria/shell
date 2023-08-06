@@ -8,12 +8,15 @@ Example:
 
 Assume that file.txt has the following content:
 
-'''bash
+```bash
 987-123-4567
 123 456 7890
 (123) 456-7890
-'''
+```
+
 Your script should output the following valid phone numbers:
 
+```bash
 987-123-4567
 (123) 456-7890
+```
